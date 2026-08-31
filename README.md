@@ -37,9 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/dasarishylaja/leetcode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0779-k-th-symbol-in-grammar](https://github.com/dasarishylaja/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/dasarishylaja/leetcode-problems/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/dasarishylaja/leetcode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
