@@ -49,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/dasarishylaja/leetcode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/dasarishylaja/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/dasarishylaja/leetcode-problems/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/dasarishylaja/leetcode-problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
