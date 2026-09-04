@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/dasarishylaja/leetcode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/dasarishylaja/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dasarishylaja/leetcode-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dasarishylaja/leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dasarishylaja/leetcode-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dasarishylaja/leetcode-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
