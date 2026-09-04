@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/dasarishylaja/leetcode-problems/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/dasarishylaja/leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/dasarishylaja/leetcode-problems/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/dasarishylaja/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dasarishylaja/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
@@ -40,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/dasarishylaja/leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/dasarishylaja/leetcode-problems/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/dasarishylaja/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/dasarishylaja/leetcode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/dasarishylaja/leetcode-problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/dasarishylaja/leetcode-problems/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/dasarishylaja/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Backtracking
 |  |
