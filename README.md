@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dasarishylaja/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/dasarishylaja/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
+| [0268-missing-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/dasarishylaja/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/dasarishylaja/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 ## String
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dasarishylaja/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/dasarishylaja/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/dasarishylaja/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/dasarishylaja/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/dasarishylaja/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/dasarishylaja/leetcode-problems/tree/master/0724-find-pivot-index) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/dasarishylaja/leetcode-problems/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/dasarishylaja/leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/dasarishylaja/leetcode-problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/dasarishylaja/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dasarishylaja/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/dasarishylaja/leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/dasarishylaja/leetcode-problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/dasarishylaja/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dasarishylaja/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/dasarishylaja/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dasarishylaja/leetcode-problems/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
