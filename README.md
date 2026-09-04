@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dasarishylaja/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/dasarishylaja/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0268-missing-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dasarishylaja/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dasarishylaja/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/dasarishylaja/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 ## String
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/dasarishylaja/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/dasarishylaja/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dasarishylaja/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dasarishylaja/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/dasarishylaja/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/dasarishylaja/leetcode-problems/tree/master/0904-fruit-into-baskets) |
