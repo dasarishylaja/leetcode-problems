@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dasarishylaja/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/dasarishylaja/leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/dasarishylaja/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0268-missing-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dasarishylaja/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/dasarishylaja/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/dasarishylaja/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0041-first-missing-positive](https://github.com/dasarishylaja/leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/dasarishylaja/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/dasarishylaja/leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0136-single-number) |
