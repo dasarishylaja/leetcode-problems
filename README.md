@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dasarishylaja/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0078-subsets](https://github.com/dasarishylaja/leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0136-single-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/dasarishylaja/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Trie
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/dasarishylaja/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/dasarishylaja/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -80,4 +82,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dasarishylaja/leetcode-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/dasarishylaja/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/dasarishylaja/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/dasarishylaja/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
