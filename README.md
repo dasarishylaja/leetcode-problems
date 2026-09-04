@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dasarishylaja/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0078-subsets](https://github.com/dasarishylaja/leetcode-problems/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0136-single-number) |
 ## Trie
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/dasarishylaja/leetcode-problems/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0136-single-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/dasarishylaja/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
