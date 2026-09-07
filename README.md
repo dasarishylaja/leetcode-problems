@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/dasarishylaja/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/dasarishylaja/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/dasarishylaja/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/dasarishylaja/leetcode-problems/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/dasarishylaja/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0518-coin-change-ii) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/dasarishylaja/leetcode-problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1143-longest-common-subsequence](https://github.com/dasarishylaja/leetcode-problems/tree/master/1143-longest-common-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/dasarishylaja/leetcode-problems/tree/master/0064-minimum-path-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/dasarishylaja/leetcode-problems/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
