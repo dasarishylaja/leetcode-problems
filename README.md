@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/dasarishylaja/leetcode-problems/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/dasarishylaja/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/dasarishylaja/leetcode-problems/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/dasarishylaja/leetcode-problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/dasarishylaja/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/dasarishylaja/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/dasarishylaja/leetcode-problems/tree/master/0412-fizz-buzz) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dasarishylaja/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/dasarishylaja/leetcode-problems/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/dasarishylaja/leetcode-problems/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/dasarishylaja/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/dasarishylaja/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
