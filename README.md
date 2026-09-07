@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/dasarishylaja/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dasarishylaja/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/dasarishylaja/leetcode-problems/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/dasarishylaja/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/dasarishylaja/leetcode-problems/tree/master/0238-product-of-array-except-self) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/dasarishylaja/leetcode-problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/dasarishylaja/leetcode-problems/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/dasarishylaja/leetcode-problems/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/dasarishylaja/leetcode-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/dasarishylaja/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/dasarishylaja/leetcode-problems/tree/master/0312-burst-balloons) |
