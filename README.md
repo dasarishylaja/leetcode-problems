@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dasarishylaja/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0518-coin-change-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/dasarishylaja/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/dasarishylaja/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/dasarishylaja/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/dasarishylaja/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/dasarishylaja/leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/dasarishylaja/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0147-insertion-sort-list](https://github.com/dasarishylaja/leetcode-problems/tree/master/0147-insertion-sort-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dasarishylaja/leetcode-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0622-design-circular-queue](https://github.com/dasarishylaja/leetcode-problems/tree/master/0622-design-circular-queue) |
 ## Stack
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/dasarishylaja/leetcode-problems/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/dasarishylaja/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/dasarishylaja/leetcode-problems/tree/master/0622-design-circular-queue) |
 ## Tree
 |  |
 | ------- |
@@ -325,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/dasarishylaja/leetcode-problems/tree/master/0778-swim-in-rising-water) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/dasarishylaja/leetcode-problems/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
