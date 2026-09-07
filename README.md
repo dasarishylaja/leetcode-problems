@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/dasarishylaja/leetcode-problems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/dasarishylaja/leetcode-problems/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/dasarishylaja/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/dasarishylaja/leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0202-happy-number) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dasarishylaja/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/dasarishylaja/leetcode-problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/dasarishylaja/leetcode-problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dasarishylaja/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/dasarishylaja/leetcode-problems/tree/master/0072-edit-distance) |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/dasarishylaja/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/dasarishylaja/leetcode-problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
