@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/dasarishylaja/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/dasarishylaja/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0969-pancake-sorting](https://github.com/dasarishylaja/leetcode-problems/tree/master/0969-pancake-sorting) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/dasarishylaja/leetcode-problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dasarishylaja/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Trie
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dasarishylaja/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/dasarishylaja/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0518-coin-change-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0518-coin-change-ii) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/dasarishylaja/leetcode-problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -215,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/dasarishylaja/leetcode-problems/tree/master/0412-fizz-buzz) |
+## Triangulation
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/dasarishylaja/leetcode-problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Polygons
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/dasarishylaja/leetcode-problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
 <!---LeetCode Topics End-->
