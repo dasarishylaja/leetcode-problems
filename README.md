@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/dasarishylaja/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/dasarishylaja/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/dasarishylaja/leetcode-problems/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/dasarishylaja/leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/dasarishylaja/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0969-pancake-sorting](https://github.com/dasarishylaja/leetcode-problems/tree/master/0969-pancake-sorting) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/dasarishylaja/leetcode-problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/dasarishylaja/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/dasarishylaja/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/dasarishylaja/leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/dasarishylaja/leetcode-problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1143-longest-common-subsequence](https://github.com/dasarishylaja/leetcode-problems/tree/master/1143-longest-common-subsequence) |
 ## Monotonic Stack
