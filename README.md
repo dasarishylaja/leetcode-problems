@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dasarishylaja/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/dasarishylaja/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/dasarishylaja/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
+| [0412-fizz-buzz](https://github.com/dasarishylaja/leetcode-problems/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/dasarishylaja/leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/dasarishylaja/leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/dasarishylaja/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0779-k-th-symbol-in-grammar](https://github.com/dasarishylaja/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dasarishylaja/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0518-coin-change-ii) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/dasarishylaja/leetcode-problems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
