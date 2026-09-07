@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dasarishylaja/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/dasarishylaja/leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/dasarishylaja/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/dasarishylaja/leetcode-problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dasarishylaja/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/dasarishylaja/leetcode-problems/tree/master/0078-subsets) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dasarishylaja/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/dasarishylaja/leetcode-problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dasarishylaja/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/dasarishylaja/leetcode-problems/tree/master/0072-edit-distance) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dasarishylaja/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/dasarishylaja/leetcode-problems/tree/master/0055-jump-game) |
 | [0969-pancake-sorting](https://github.com/dasarishylaja/leetcode-problems/tree/master/0969-pancake-sorting) |
 ## Sorting
 |  |
