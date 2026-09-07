@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/dasarishylaja/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0969-pancake-sorting](https://github.com/dasarishylaja/leetcode-problems/tree/master/0969-pancake-sorting) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/dasarishylaja/leetcode-problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/dasarishylaja/leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dasarishylaja/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Trie
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dasarishylaja/leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0322-coin-change](https://github.com/dasarishylaja/leetcode-problems/tree/master/0322-coin-change) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/dasarishylaja/leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dasarishylaja/leetcode-problems/tree/master/0064-minimum-path-sum) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/dasarishylaja/leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Longest Common Subsequence
 |  |
 | ------- |
