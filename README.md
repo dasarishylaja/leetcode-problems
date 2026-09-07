@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/dasarishylaja/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/dasarishylaja/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/dasarishylaja/leetcode-problems/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/dasarishylaja/leetcode-problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/dasarishylaja/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dasarishylaja/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0518-coin-change-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0518-coin-change-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dasarishylaja/leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0322-coin-change](https://github.com/dasarishylaja/leetcode-problems/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/dasarishylaja/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/dasarishylaja/leetcode-problems/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/dasarishylaja/leetcode-problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/dasarishylaja/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/dasarishylaja/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0518-coin-change-ii) |
@@ -227,11 +230,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/dasarishylaja/leetcode-problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/dasarishylaja/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/dasarishylaja/leetcode-problems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0518-coin-change-ii) |
 ## Simulation
 |  |
