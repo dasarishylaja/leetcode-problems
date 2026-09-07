@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dasarishylaja/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/dasarishylaja/leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/dasarishylaja/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0063-unique-paths-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dasarishylaja/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/dasarishylaja/leetcode-problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/dasarishylaja/leetcode-problems/tree/master/0088-merge-sorted-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dasarishylaja/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0063-unique-paths-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dasarishylaja/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/dasarishylaja/leetcode-problems/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/dasarishylaja/leetcode-problems/tree/master/0152-maximum-product-subarray) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dasarishylaja/leetcode-problems/tree/master/0064-minimum-path-sum) |
 ## Longest Common Subsequence
 |  |
