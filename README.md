@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dasarishylaja/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/dasarishylaja/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/dasarishylaja/leetcode-problems/tree/master/0412-fizz-buzz) |
+| [0516-longest-palindromic-subsequence](https://github.com/dasarishylaja/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/dasarishylaja/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0312-burst-balloons](https://github.com/dasarishylaja/leetcode-problems/tree/master/0312-burst-balloons) |
 | [0416-partition-equal-subset-sum](https://github.com/dasarishylaja/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/dasarishylaja/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0518-coin-change-ii) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/dasarishylaja/leetcode-problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
 ## Monotonic Stack
