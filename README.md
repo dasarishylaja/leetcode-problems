@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dasarishylaja/leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0322-coin-change](https://github.com/dasarishylaja/leetcode-problems/tree/master/0322-coin-change) |
+| [0743-network-delay-time](https://github.com/dasarishylaja/leetcode-problems/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/dasarishylaja/leetcode-problems/tree/master/0778-swim-in-rising-water) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dasarishylaja/leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Tree
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0337-house-robber-iii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0337-house-robber-iii) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dasarishylaja/leetcode-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0743-network-delay-time](https://github.com/dasarishylaja/leetcode-problems/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/dasarishylaja/leetcode-problems/tree/master/0778-swim-in-rising-water) |
 ## Doubly-Linked List
 |  |
@@ -323,13 +325,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/dasarishylaja/leetcode-problems/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/dasarishylaja/leetcode-problems/tree/master/0778-swim-in-rising-water) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/dasarishylaja/leetcode-problems/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/dasarishylaja/leetcode-problems/tree/master/0778-swim-in-rising-water) |
 ## Queue
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/dasarishylaja/leetcode-problems/tree/master/0622-design-circular-queue) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/dasarishylaja/leetcode-problems/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/dasarishylaja/leetcode-problems/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
