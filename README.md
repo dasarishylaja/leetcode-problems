@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/dasarishylaja/leetcode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/dasarishylaja/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0147-insertion-sort-list](https://github.com/dasarishylaja/leetcode-problems/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/dasarishylaja/leetcode-problems/tree/master/0148-sort-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dasarishylaja/leetcode-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0622-design-circular-queue](https://github.com/dasarishylaja/leetcode-problems/tree/master/0622-design-circular-queue) |
 ## Stack
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/dasarishylaja/leetcode-problems/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/dasarishylaja/leetcode-problems/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dasarishylaja/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/dasarishylaja/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/dasarishylaja/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/dasarishylaja/leetcode-problems/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dasarishylaja/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/dasarishylaja/leetcode-problems/tree/master/0283-move-zeroes) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dasarishylaja/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/dasarishylaja/leetcode-problems/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/dasarishylaja/leetcode-problems/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/dasarishylaja/leetcode-problems/tree/master/0274-h-index) |
 | [0645-set-mismatch](https://github.com/dasarishylaja/leetcode-problems/tree/master/0645-set-mismatch) |
@@ -359,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/dasarishylaja/leetcode-problems/tree/master/0274-h-index) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/dasarishylaja/leetcode-problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
