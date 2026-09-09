@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/dasarishylaja/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/dasarishylaja/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/dasarishylaja/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0541-reverse-string-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [1143-longest-common-subsequence](https://github.com/dasarishylaja/leetcode-problems/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/dasarishylaja/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0541-reverse-string-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0969-pancake-sorting](https://github.com/dasarishylaja/leetcode-problems/tree/master/0969-pancake-sorting) |
 ## Binary Search
 |  |
