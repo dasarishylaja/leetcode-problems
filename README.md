@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/dasarishylaja/leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/dasarishylaja/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/dasarishylaja/leetcode-problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/dasarishylaja/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/dasarishylaja/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dasarishylaja/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/dasarishylaja/leetcode-problems/tree/master/0147-insertion-sort-list) |
 | [0268-missing-number](https://github.com/dasarishylaja/leetcode-problems/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/dasarishylaja/leetcode-problems/tree/master/0274-h-index) |
 | [0645-set-mismatch](https://github.com/dasarishylaja/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0969-pancake-sorting](https://github.com/dasarishylaja/leetcode-problems/tree/master/0969-pancake-sorting) |
 ## Pigeonhole Principle
@@ -353,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dasarishylaja/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/dasarishylaja/leetcode-problems/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
